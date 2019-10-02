@@ -2,7 +2,7 @@
 This is a bootable version of **tap's** entry on 0a000h of 2002 **Matrix32**, which was awarded the 2nd place.
 
 ### Disclaimer
-The intro was *NOT* made by made, I simply ported it to a bootable version. 
+The intro was *NOT* made by me, I simply ported it to a bootable version. 
 
 ### Makefile Targets
 - make build - Assembles the intro.
